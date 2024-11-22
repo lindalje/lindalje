@@ -20,7 +20,8 @@
 # 🚀 진행한 프로젝트 및 과제
 <br>
 🎓 College of Art & Technology, Chung-Ang University<br><br>   📫 lindalje@daum.net
-1학년🔽<br><br>
+<br>1학년🔽
+<br><br>
 2023 심화프로그래밍 | C언어로 Hangman 게임 개발
 <br> 
 2024 비주얼 컴퓨팅   | 블록코딩으로 RushHour 게임 개발
