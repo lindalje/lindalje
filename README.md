@@ -8,7 +8,7 @@
 
 
 # 📌 About Me:
-🎓 College of Art & Technology, Chung-Ang University<br>    ☎️010-3070-8687<br>    📧 lindalje@daum.net
+🎓 College of Art & Technology, Chung-Ang University<br><br>    ☎️010-3070-8687<br>    📧 lindalje@daum.net
 
 
 # 💻 Tech Stack:
