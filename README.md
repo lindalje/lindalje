@@ -25,12 +25,10 @@
 <br><br><br>
 
 # 📌 About Me
-</div>
 <br><br><br>
 🎓 College of Art & Technology, Chung-Ang University<br><br>    ☎️010-3070-8687<br><br>    📫 lindalje@daum.net
 <br><br><br><br>
 
-<div align="center">
   
 # 💻 Tech Stack 💻
 <br>
@@ -58,7 +56,6 @@
 ![](./profile-3d-contrib/profile-season-animate.svg)
 </div>
 
-<div align="center">
 
 <br><br><br><br>
 ![](https://github-readme-stats.vercel.app/api?username=lindalje&theme=rose&hide_border=false&include_all_commits=true&count_private=true)
