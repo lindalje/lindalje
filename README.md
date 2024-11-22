@@ -25,9 +25,9 @@
 1학년🔽
 <br><br>
 2023 심화프로그래밍 | C언어로 Hangman 게임 개발
-<br> 
+<br> [20233801 이재은_행맨게임 개발 리포트.docx](https://github.com/user-attachments/files/17871332/20233801._.docx)
 2024 비주얼 컴퓨팅   | 블록코딩으로 RushHour 게임 개발
-<br>[20233801 이재은_Rush Hour.pptx](https://github.com/user-attachments/files/17871303/20233801._Rush.Hour.pptx)
+<br>[20233801 이재은_Rush Hour.pptx](https://github.com/user-attachments/files/17871329/20233801._Rush.Hour.pptx)
 <br><br><br>
 
   
