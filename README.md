@@ -33,13 +33,17 @@
 <br><br><br><br>
 # 📊 GitHub Stats 📊
 <br>
+
 ![](./profile-3d-contrib/profile-season-animate.svg)
 </div>
+
 <div align="center">
+
 <br><br><br><br>
 ![](https://github-readme-stats.vercel.app/api?username=lindalje&theme=rose&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lindalje&theme=rose&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lindalje&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 <br><br><br><br>
 # 🏆 GitHub Trophies 🏆
 <br><br><br><br>
