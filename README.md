@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=300&text=Jae%20Eun&animation=fadeIn&fontColor=FFFFFF)
-
+![footer](https://capsule-render.vercel.app/api?section=footer&이재은)
 
 
 
