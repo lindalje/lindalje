@@ -3,9 +3,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=300&text=Jae%20Eun&fontSize=80&animation=fadeIn&fontColor=FFFFFF)
 <br><br><br><br>
 
-</div>
 
 # 📌 About Me
+</div>
 <br><br><br>
 🎓 College of Art & Technology, Chung-Ang University<br><br>    ☎️010-3070-8687<br><br>    📧 lindalje@daum.net
 <br><br><br><br>
