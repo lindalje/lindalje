@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&height=400&text=JaeEun%20capsule%20render)
+![header](https://capsule-render.vercel.app/api?type=Waving&height=400&text=Jae%Eun)
 
 
 
