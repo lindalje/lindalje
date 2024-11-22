@@ -31,6 +31,7 @@
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/>
 <br><br><br><br>
+
 # 📊 GitHub Stats 📊
 <br>
 
@@ -41,8 +42,8 @@
 
 <br><br><br><br>
 ![](https://github-readme-stats.vercel.app/api?username=lindalje&theme=rose&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=lindalje&theme=rose&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lindalje&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=lindalje&theme=rose&hide_border=false)
 
 <br><br><br><br>
 # 🏆 GitHub Trophies 🏆
