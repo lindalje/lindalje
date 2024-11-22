@@ -18,4 +18,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # GitHub
-![](./profile-3d-contrib/profile-south-season-animate.svg)
+![](./profile-3d-contrib/profile-season-animate.svg)
