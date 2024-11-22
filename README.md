@@ -6,6 +6,7 @@
 
 # 📌 About Me
 <br><br><br>
+안녕아헤숑
 🎓 College of Art & Technology, Chung-Ang University<br><br>    ☎️010-3070-8687<br><br>    📧 lindalje@daum.net
 <br><br><br><br>
 # 💻 Tech Stack 💻
