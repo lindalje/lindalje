@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&height=400&text=Jae%20Eun&animation=fadeIn&fontColor=999999)
+![header](https://capsule-render.vercel.app/api?type=Waving&height=400&text=Jae%20Eun&animation=fadeIn&fontColor=FFFFFF)
 
 
 
