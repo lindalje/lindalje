@@ -2,13 +2,10 @@
 
   
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=300&text=Jae%20Eun&fontSize=80&animation=fadeIn&fontColor=FFFFFF)
-
-
-
-
+<br><br><br><br>
 
 # 📌 About Me
-<br><br><br><br>
+<br><br><br>
 🎓 College of Art & Technology, Chung-Ang University<br><br>    ☎️010-3070-8687<br><br>    📧 lindalje@daum.net
 <br><br><br><br>
 # 💻 Tech Stack 💻
@@ -22,7 +19,6 @@
 #
 <br><br><br><br>
 # 📊 GitHub Stats 📊
-<br><br><br><br>
 ![](https://github-readme-stats.vercel.app/api?username=lindalje&theme=rose&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lindalje&theme=rose&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lindalje&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
