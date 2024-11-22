@@ -1,3 +1,5 @@
+<div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=Waving&height=300&text=Jae%20Eun&fontSize=80&animation=fadeIn&fontColor=FFFFFF)
 
 
@@ -28,4 +30,6 @@
 [![](https://visitcount.itsvg.in/api?id=lindalje&icon=7&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+</div>
 
