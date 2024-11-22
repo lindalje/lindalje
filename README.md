@@ -1,3 +1,12 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300§ion=header&text=Welcome!😊&desc=This%20is%20JaeEun's%20GitHub.%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)
+
+
+
+
+
+
+
+
 # 💫 About Me:
 📌JaeEun Lee<br>🔽<br>    🎓 College of Art & Technology, Chung-Ang University<br>    ☎️010-3070-8687<br>    📧 lindalje@daum.net
 
