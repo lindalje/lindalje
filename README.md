@@ -24,7 +24,7 @@
 <br> 
 2024 비주얼 컴퓨팅   | 블록코딩으로 RushHour 게임 개발
 <br>
-![러시아워](https://github.com/user-attachments/assets/d5eb6c30-f1f6-4596-9937-7d7509ad18a4)
+![러시아워](https://github.com/user-attachments/assets/5433aa25-ff3e-4448-9008-1e830ac7fe15)
 <br><br><br>
 
 # 📌 About Me
