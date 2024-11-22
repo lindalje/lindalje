@@ -13,13 +13,14 @@
 <br><br>
 ❓ 질문은 언제든 환영합니다 Issue를 열거나 Discussion을 남겨주세요 !<br>
 🤝 프로젝트에 기여하고 싶다면 Pull Request를 보내주세요 !<br>
-💡 새로운 아이디어가 있다면 언제든 제안해주세요 !<br>
+💡 새로운 아이디어가 있다면 언제든 제안해주세요 !<br><br>   
+📫 lindalje@daum.net
 <br><br><br>
 </div>
 
 # 🚀 진행한 프로젝트 및 과제
 <br>
-🎓 College of Art & Technology, Chung-Ang University<br><br>   📫 lindalje@daum.net
+🎓 College of Art & Technology, Chung-Ang University
 <br><br><br>
 1학년🔽
 <br><br>
