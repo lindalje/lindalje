@@ -25,16 +25,16 @@
 1학년🔽
 <br><br>
 2023 심화프로그래밍 | C언어로 Hangman 게임 개발
-<br> [20233801 이재은_행맨게임 개발 리포트.docx](https://github.com/user-attachments/files/17871332/20233801._.docx)
-<br><br>
+<br><br> [20233801 이재은_행맨게임 개발 리포트.docx](https://github.com/user-attachments/files/17871332/20233801._.docx)
+<br><br><br><br>
 2024 비주얼 컴퓨팅   | 블록코딩으로 RushHour 게임 개발
-<br>[20233801 이재은_Rush Hour.pptx](https://github.com/user-attachments/files/17871329/20233801._Rush.Hour.pptx)
-<br><br><br>
+<br><br>[20233801 이재은_Rush Hour.pptx](https://github.com/user-attachments/files/17871329/20233801._Rush.Hour.pptx)
+<br><br><br><br>
 
   
 # 💻 Tech Stack 💻
 <div align="center">
-<br>
+<br><br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -61,7 +61,7 @@
 </div>
 
 
-<br><br><br><br>
+<br><br><br><br><br>
 ![](https://github-readme-stats.vercel.app/api?username=lindalje&theme=rose&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lindalje&theme=rose&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lindalje&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
