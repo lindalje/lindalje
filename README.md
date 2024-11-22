@@ -20,9 +20,9 @@
 # 🚀 진행한 프로젝트 및 과제
 <br>
 1학년🔽<br><br>
-2023 심화프로그래밍 | C언어로 Hangman 게임 개발 ![행맨](.img/행맨.png)
+2023 심화프로그래밍 | C언어로 Hangman 게임 개발 ![image](.img/행맨.png)
 <br> 
-2024 비주얼 컴퓨팅   | 블록코딩으로 RushHour 게임 개발 ![러시아워](.img/러사아워.jpg)
+2024 비주얼 컴퓨팅   | 블록코딩으로 RushHour 게임 개발 ![image](.img/러사아워.jpg)
 <br>
 <br><br><br>
 
