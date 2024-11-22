@@ -7,8 +7,8 @@
 
 
 
-# 💫 About Me:
-📌JaeEun Lee<br>🔽<br>    🎓 College of Art & Technology, Chung-Ang University<br>    ☎️010-3070-8687<br>    📧 lindalje@daum.net
+# 📌 About Me:
+🎓 College of Art & Technology, Chung-Ang University<br>    ☎️010-3070-8687<br>    📧 lindalje@daum.net
 
 
 # 💻 Tech Stack:
