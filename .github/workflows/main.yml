@@ -17,9 +17,8 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
-          git config user.name lindalje
-          git config user.email lindalje@daum.net
-          git remote set-url origin https://github.com/lindalje/lindalje
+          git config --global user.name "lindalje"
+          git config --global user.email "lindalje@daum.net"
           git add -A .
           git commit -m "generated"
-          git push https://$GITHUB_TOKEN@github.com/lindalje/lindalje
+          git push origin HEAD:main
